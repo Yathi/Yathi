@@ -3,7 +3,8 @@
 [![GitHub Yathi](https://img.shields.io/github/followers/Yathi?style=social)](https://github.com/Yathi)
 [![Twitter: Yathi](https://img.shields.io/twitter/follow/ihtay?style=social)](https://twitter.com/ihtay)
 
-![Yathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yathi&count_private=true)
+![Yathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yathi&count_private=true&show_icons=true&theme=cobalt)
+
 
 
 <!--
