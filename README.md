@@ -3,9 +3,9 @@
 [![GitHub Yathi](https://img.shields.io/github/followers/Yathi?style=social)](https://github.com/Yathi)
 [![Twitter: Yathi](https://img.shields.io/twitter/follow/ihtay?style=social)](https://twitter.com/ihtay)
 
-![Yathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yathi&count_private=true&show_icons=true&theme=gruvbox)
+![Yathi's GitHub stats](https://github-readme-stats-six-gamma-15.vercel.app/api?username=yathi&count_private=true&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yathi&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-gamma-15.vercel.app/api/top-langs/?username=yathi&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
